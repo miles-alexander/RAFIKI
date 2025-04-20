@@ -9,7 +9,7 @@ The name RAFIKI is both a nod to Disney storytelling and an acronym that reflect
 ---
 
 ## Authors
-* @miles-alexander
+* [@miles-alexander](https://github.com/miles-alexander)
 
 ---
 
