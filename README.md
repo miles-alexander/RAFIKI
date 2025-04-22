@@ -1,4 +1,4 @@
-# RAFIKI – Guest Feedback Tracking & Reporting Tool  
+# RAFIKI – Guest Feedback Tracking & Reporting Tool 🐒
 
 ## Overview
 
